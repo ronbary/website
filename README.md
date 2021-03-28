@@ -3,3 +3,7 @@
 This is the readme file for this project
 
 This is new update for the readme file in our new branch -> feature-update-branch
+
+# example
+
+text added part of Automatic merge example
