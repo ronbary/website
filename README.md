@@ -7,3 +7,7 @@ This is new update for the readme file in our new branch -> feature-update-branc
 # example
 
 text added part of Automatic merge example
+
+## update from master branch
+
+This is going to be painful, but we will deal with it
