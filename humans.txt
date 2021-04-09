@@ -16,4 +16,4 @@
 
 # Just another comment
 
-some changes from master branch
+some changes from master branch (final version from master)
