@@ -15,3 +15,5 @@
     jQuery, Modernizr
 
 # Just another comment
+
+some changes from master branch
